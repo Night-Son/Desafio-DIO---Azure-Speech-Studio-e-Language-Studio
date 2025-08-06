@@ -9,13 +9,13 @@ Explorar os recursos de IA da Microsoft para fala e linguagem natural utilizando
 ## 📌 Atividades Realizadas
 
 ### Speech Studio
-- ✅ Conversão de texto para fala: (descrição + resultado + print)
-- ✅ Conversão de fala para texto: (descrição + resultado + print)
+- ✅ Conversão de texto para fala: 
+- ✅ Conversão de fala para texto:
 
 ### Language Studio
-- ✅ Análise de Sentimento: (descrição + resultado + print)
-- ✅ Entidades Nomeadas: (descrição + resultado + print)
-- ✅ Extração de frases-chave: (descrição + resultado + print)
+- ✅ Análise de Sentimento:
+- ✅ Entidades Nomeadas:
+- ✅ Extração de frases-chave:
 
 
 ## 📸 Capturas de Tela
